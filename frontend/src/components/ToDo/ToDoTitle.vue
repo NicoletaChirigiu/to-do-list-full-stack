@@ -12,5 +12,7 @@
   @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
   padding: 10px;
   font-family: cursive;
+  text-align: center;
+
 }
 </style>
